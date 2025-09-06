@@ -10,7 +10,7 @@ To get those, go to the [raw data page](https://docs.activitywatch.net/en/latest
 
 ## Installation
 
-Requires `python3.7+`
+Requires `python3.9+`
 
 To install with pip, run:
 
