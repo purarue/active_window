@@ -22,7 +22,6 @@ def main() -> None:
     """
     Parses the JSON dump from activitywatchs' window watcher
     """
-    pass
 
 
 @main.command(short_help="parse aw-window dump")

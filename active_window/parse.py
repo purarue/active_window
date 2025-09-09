@@ -3,7 +3,8 @@ import csv
 import logging
 from io import StringIO
 from pathlib import Path
-from typing import NamedTuple, Union, Iterator, Optional, Literal
+from typing import NamedTuple, Union, Optional, Literal
+from collections.abc import Iterator
 from datetime import datetime, timezone
 
 import more_itertools
